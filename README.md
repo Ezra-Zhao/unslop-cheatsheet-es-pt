@@ -1,5 +1,7 @@
 # unslop 速查表 | unslop Cheatsheet | Guía rápida de unslop
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 **紫渐变、三张一模一样的卡片、满屏发光——一眼就看出是 AI 做的。这一张教你的 agent 先认出这些毛病，再像设计师拿红笔改稿一样，一项一项改掉**
 
 > 一页看懂 heydamir/unslop：一个给 Claude Code、Codex 与 Google Antigravity 用的设计 skill。它先审计一屏界面，把「AI 味」逐项列出来——紫色渐变、发光、emoji 标签、大喊式文案、间距不匀，都是原仓自己点名的毛病——再从产品本身定一个设计方向，然后一遍一遍地过：间距、颜色、图标、文案、字体、版式、细节、视觉与动效。改之前先给方向、让你把关；界面已经够好时，它会直说够好，只给小修建议，不硬找活干。
